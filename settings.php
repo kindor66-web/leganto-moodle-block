@@ -1,5 +1,5 @@
 <?php
-// Released under the LGPL Licence - http://www.gnu.org/licenses/lgpl.html. Anyone is free to change or redistribute this code.
+// test Released under the LGPL Licence - http://www.gnu.org/licenses/lgpl.html. Anyone is free to change or redistribute this code.
 $this->mandatory = true;
 $settings->add(new admin_setting_configtext('leganto/blockTitle',get_string('config_blockTitle', 'block_leganto'),get_string('config_blockTitleDesc', 'block_leganto'),get_string('config_blockTitleDefault', 'block_leganto')));
 
